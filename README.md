@@ -6,6 +6,23 @@ An end-to-end data analytics project exploring customer churn patterns and reten
 
 ![Customer Churn Dashboard](images/customer-churn-dashboard.png)
 
+## Key Business Insights
+
+- **Overall Churn:** 26.58% of customers have churned, representing 1,869 out of 7,032 customers.
+- **Contract Type:** Month-to-month customers have the highest churn rate at 42.71%, compared with 2.85% for two-year contracts.
+- **Internet Service:** Fiber optic customers show a churn rate of 41.89%, higher than DSL customers at 19.00%.
+- **Payment Method:** Customers using electronic checks have the highest churn rate at 45.29%.
+- **Customer Support:** Customers without tech support have a churn rate of 41.65%, compared with 15.20% among customers with tech support.
+- **Tenure:** Customers with 0–12 months of tenure have the highest churn rate at 47.68%.
+
+## Business Recommendations
+
+- Encourage customers to move from month-to-month to longer-term contracts.
+- Investigate customer dissatisfaction among fiber optic users.
+- Review the customer experience for electronic check users.
+- Improve awareness and accessibility of technical support services.
+- Introduce targeted retention campaigns for newly acquired customers.
+
 ## Project Overview
 
 Customer churn is an important challenge for subscription-based businesses. This project analyses customer data to understand churn behaviour, identify customer segments with higher churn rates, and highlight insights that can support customer retention strategies.
