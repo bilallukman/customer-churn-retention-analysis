@@ -2,6 +2,10 @@
 
 An end-to-end data analytics project exploring customer churn patterns and retention opportunities using **Python, MySQL and Power BI**.
 
+## Dashboard Preview
+
+![Customer Churn Dashboard](images/customer-churn-dashboard.png)
+
 ## Project Overview
 
 Customer churn is an important challenge for subscription-based businesses. This project analyses customer data to understand churn behaviour, identify customer segments with higher churn rates, and highlight insights that can support customer retention strategies.
